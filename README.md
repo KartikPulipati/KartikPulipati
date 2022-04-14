@@ -1,4 +1,5 @@
 ### Hi there 👋
+Go to [My Website](https://kartikportfolio.bss.design/projects-grid-cards.html) or [My Linkedin](https://www.linkedin.com/in/kartik-pulipati/)
 
 <!--
 **KartikPulipati/KartikPulipati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
