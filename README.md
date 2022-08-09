@@ -47,8 +47,8 @@ My name is Kartik, and I am a junior in high school. I am interested in Machine 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Achievements
-- 2nd Place with my machine learning project in the Alameda Science and Engineering Fair
+- 2nd Place with my machine learning research in the Alameda Science and Engineering Fair
 - Won multiple hack-a-thons
 - Won an internship with Alan AI and had my project featured on their website
 - Backpacked 50 miles in 6 days with a 30 to 40 pound backpack form Silver Creek National Park through Yosemite
-- 
+- Soon to be Eagle Scout
