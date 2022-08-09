@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### My name is Kartik, and I am a junior in high school. I am interested in Machine Learning, Web/App Dev, Physics, and video games.
-Go to [Devpost](https://devpost.com/kartik-pulipati) or [My Linkedin](https://www.linkedin.com/in/kartik-pulipati/)
 
-- 🔭 I’m currently working on a machine learning research project!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love doing research and want to become a researcher in the field of engineering and computer science in the future.
+###Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-Charmi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikpulipati/)
 
+
+### My Skills:
