@@ -13,4 +13,3 @@ My name is Kartik, and I am a junior in high school. I am interested in Machine 
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-66ff00?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=66ff00)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-FFA500?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=FFA500)
 ![Django Badge](https://img.shields.io/badge/-django-092E20?style=for-the-badge&labelColor=414a4c&logo=CSS3&logoColor=092E20)
-
