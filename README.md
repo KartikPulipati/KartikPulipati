@@ -14,4 +14,6 @@ My name is Kartik, and I am a junior in high school. I am interested in Machine 
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-FFA500?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=FFA500)
 ![Django Badge](https://img.shields.io/badge/-django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
