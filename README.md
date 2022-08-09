@@ -4,7 +4,7 @@ My name is Kartik, and I am a junior in high school. I am interested in Machine 
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-Kartik-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pulipati/)
 [![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/kartik-pulipati)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(kartik.pulipati@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-CharmiKadi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kartik.pulipati@gmail.com)
 
 
 *My Website is being remade*
