@@ -4,6 +4,7 @@ My name is Kartik, and I am a junior in high school. I am interested in Machine 
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-Kartik-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pulipati/)
 [![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/kartik-pulipati)
+
 *My Website is being remade*
 
 ### My Skills:
