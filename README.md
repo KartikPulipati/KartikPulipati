@@ -37,7 +37,7 @@ My name is Kartik, and I am a junior in high school. I am interested in Machine 
 
 
 
-### Learning:
+### Learning/Want to learn:
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -45,6 +45,11 @@ My name is Kartik, and I am a junior in high school. I am interested in Machine 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### In-progress projects
+- Machine learning research project
+- A revamped website for me
+- Learning react
 
 ### Achievements
 - 2nd Place with my machine learning research in the Alameda Science and Engineering Fair
