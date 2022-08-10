@@ -2,7 +2,7 @@
 My name is Kartik, and I am a junior in high school. I am interested in Machine Learning, Web/App Dev, Physics, and video games.
 
 ### Socials
-<a href="https://www.linkedin.com/in/kartik-pulipati/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)</a>
+<a target="_blank" href="https://www.linkedin.com/in/kartik-pulipati/" >![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pulipati/)
 [![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/kartik-pulipati)
