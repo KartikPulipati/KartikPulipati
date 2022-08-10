@@ -2,10 +2,10 @@
 My name is Kartik, and I am a junior in high school. I am interested in Machine Learning, Web/App Dev, Physics, and video games.
 
 ### Socials
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pulipati/)
-[![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/kartik-pulipati)
-[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kartik.pulipati@gmail.com)
-[![ Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&labelColor=20BEFF)](https://www.kaggle.com/kartikpulipati)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pulipati/){:target="_blank"}
+[![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/kartik-pulipati){:target="_blank"}
+[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kartik.pulipati@gmail.com){:target="_blank"}
+[![ Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&labelColor=20BEFF)](https://www.kaggle.com/kartikpulipati){:target="_blank"}
 
 
 
