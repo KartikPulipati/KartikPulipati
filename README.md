@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%6495ED&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Kartik.;I am a senior in high school.;I am interested in...;Machine Learning;Web and App Dev;Physics;Quantum Computing; and Math;)](#)
+
 My name is Kartik, and I am a senior in high school. I am interested in Machine Learning, Web/App Dev, Physics, Quantum computing, and math.
 
 ### Socials
