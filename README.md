@@ -53,7 +53,7 @@
 ### In-progress projects
 - Machine learning research project
 - A revamped website for me
-- Learning react
+- Learning Vue
 
 ### Achievements
 - 2nd Place with my machine learning research in the Alameda Science and Engineering Fair
