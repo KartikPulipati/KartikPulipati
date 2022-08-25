@@ -1,8 +1,4 @@
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%6495ED&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Kartik.;I am a senior in high school.;I am interested in...;Machine Learning;Web and App Dev;Physics;Quantum Computing; and Math;)](#)
-
-My name is Kartik, and I am a senior in high school. I am interested in Machine Learning, Web/App Dev, Physics, Quantum computing, and math.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=22&pause=500&color=F7701F&width=435&lines=Hi+there%2C+I+am+Kartik.;I+am+a+Senior+in+MSJ+High+School.;I+am+interested+in...;Machine+Learning;Web+and+App+Dev;Quantum+Computing;and+Math.)](https://git.io/typing-svg)
 
 ### Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pulipati/)
