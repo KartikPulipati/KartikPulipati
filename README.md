@@ -53,7 +53,7 @@
 ### In-progress projects
 - Learning Quantum Computing
 - A revamped website for me
-- Learning Vue
+- Learning Minecraft Mod Development with Forge
 
 ### Achievements
 - 2nd Place with my machine learning research in the Alameda Science and Engineering Fair
