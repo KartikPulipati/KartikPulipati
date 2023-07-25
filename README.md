@@ -59,6 +59,4 @@
 - 2nd Place with my machine learning research in the Alameda Science and Engineering Fair
 - Won multiple hack-a-thons
 - Won an internship with Alan AI and had my project featured on their website
-- Backpacked 50 miles in 6 days with a 30 to 40 pound backpack form Silver Creek National Park through Yosemite
-- Finished Eagle project
 - Eagle Scout
