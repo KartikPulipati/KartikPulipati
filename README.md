@@ -51,9 +51,8 @@
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 ### In-progress projects
-- Learning Quantum Computing
 - A revamped website for me
-- Learning Minecraft Mod Development with Forge
+- Reviewing physics topics
 
 ### Achievements
 - 2nd Place with my machine learning research in the Alameda Science and Engineering Fair
