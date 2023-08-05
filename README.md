@@ -1,6 +1,6 @@
 ## About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=900&pause=500&color=F7701F&width=520&lines=Hi+there%2C+I+am+Kartik.;I+major+in+CS+at+UT+Austin.;I+am+interested+in...;Web+and+App+Dev;Physics;and+Quantum+Computing.;and+Mathematics.)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=900&pause=500&color=F7701F&width=520&lines=Hi+there%2C+I+am+Kartik.;I+major+in+CS+at+UT+Austin.;I+am+interested+in...;Web+and+App+Dev,;Physics,;Quantum+Computing,;and+Mathematics.)]()
 ### Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pulipati/)
 [![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/kartik-pulipati)
