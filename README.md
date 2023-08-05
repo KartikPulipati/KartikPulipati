@@ -53,6 +53,7 @@
 ### In-progress projects
 - A revamped website for me
 - Reviewing physics topics
+- Getting ready for college
 
 ### Achievements
 - 2nd Place with my machine learning research in the Alameda Science and Engineering Fair
