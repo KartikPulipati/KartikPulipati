@@ -52,8 +52,7 @@ You can contact me at kartikpulipati on Discord
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 ### In-progress projects
-- A revamped website for me
-- Reviewing physics topics
+- Learning networking
   
 ### Achievements
 - 2nd Place with my machine learning research in the Alameda Science and Engineering Fair
