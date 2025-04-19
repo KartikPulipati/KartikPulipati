@@ -40,9 +40,6 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
-### In-progress projects
-- Learning networking
-  
 ### Achievements
 - 2nd Place with my machine learning research in the Alameda Science and Engineering Fair
 - Won multiple hack-a-thons
